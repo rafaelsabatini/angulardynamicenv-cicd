@@ -4,9 +4,9 @@
 
 export const environment = {
   production: false,
-  apium: "http://meusiteum.dev.com/api/",
-  apidois: "http://meusitedois.dev.com/api/",
-  apitres: "http://meusitres.dev.com/api/",
+  apium: "http://localhost:5241/api/",
+  apidois: "http://localhost:5242/api/",
+  apitres: "http://localhost:5243/api/",
 };
 
 /*

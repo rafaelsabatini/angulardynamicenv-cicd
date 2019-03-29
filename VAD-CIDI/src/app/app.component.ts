@@ -6,7 +6,7 @@ import { environment } from '../environments/environment';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'VAD-CIDI';
+  title = 'VAD-CICD';
   env = environment;
 
 }
