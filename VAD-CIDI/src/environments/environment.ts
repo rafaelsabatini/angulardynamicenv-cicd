@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apium: "http://meusiteum.dev.com/api/",
+  apidois: "http://meusitedois.dev.com/api/",
+  apitres: "http://meusitres.dev.com/api/",
 };
 
 /*
